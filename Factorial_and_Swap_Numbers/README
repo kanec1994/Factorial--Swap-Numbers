@@ -1,0 +1,7 @@
+To run part 1:
+	1) type make fact in command line
+	2) type ./fact to run program
+
+To run part 2:
+	1) type make swap in command line
+	2) type ./swap to run program
